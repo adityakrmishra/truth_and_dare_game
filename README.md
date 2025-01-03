@@ -30,7 +30,7 @@ Simply open the `index.html` file in your web browser. Click on the "Truth" or "
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact the project maintainer:
+For any questions or feedback, please contact :
 - **Aditya Kumar Mishra**: [adityakumar.mishra3566@gmail.com](mailto:adityakumar.mishra3566@gmail.com)
 
 Thank you for exploring the Truth and Dare Game project! Have fun playing!
